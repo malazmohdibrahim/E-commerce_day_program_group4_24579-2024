@@ -24,4 +24,5 @@
 ## screenshots:
 ###homepage:
 ![homepage](screenshots/homepage.png)
+###products:
 ![products](screenshots/products.png)
