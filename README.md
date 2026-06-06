@@ -32,8 +32,7 @@
 ![contact us](screenshots/contactus.png)
 
 
-### products: 
-![products](screenshots/products.png)
+
 
 
 ### cart: 
