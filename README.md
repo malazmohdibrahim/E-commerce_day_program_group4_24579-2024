@@ -20,4 +20,7 @@
   - profile management pages
   - responsive layout for mobile and desktop
   - high-quality skincare branding visuals and custom branding elements
-  - smooth navigation between pages 
+  - smooth navigation between pages
+## screenshots:
+###homepage:
+![homepage](screenshots/homepage.png)
