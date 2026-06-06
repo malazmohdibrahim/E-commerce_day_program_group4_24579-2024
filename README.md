@@ -22,7 +22,6 @@
   - high-quality skincare branding visuals and custom branding elements
   - smooth navigation between pages
 ## screenshots:
-###homepage:
-![homepage](screenshots/homepage.png)
-###products:
+### products:
+
 ![products](screenshots/products.png)
