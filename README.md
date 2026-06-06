@@ -9,3 +9,15 @@
 
   ### Platform used:
   Wix Harmony Editor.
+
+
+  ## features implemented:
+  - elegeant homepage design
+  - product showcase section with categories
+  - about us page describing the brand identity
+  - contact form for customer inquiries
+  - interactive cart
+  - profile management pages
+  - responsive layout for mobile and desktop
+  - high-quality skincare branding visuals and custom branding elements
+  - smooth navigation between pages 
