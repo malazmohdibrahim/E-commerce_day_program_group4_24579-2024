@@ -39,3 +39,17 @@
 
 ### cart: 
 ![cart](screenshots/cart.png)
+
+
+## challenges:
+- designing a luxury brand look and keeping it consistent
+- creating images to match brand identity
+- learning how to structure a full website project
+- organizing layout and spacing for a clean UI
+## lessons learned: 
+- learned how to build a complete brand identity
+-  improved UI/UX design skills
+-  gained experience in responsive design
+-  understood how branding affects user experience
+## live website link:
+[click here to view the live website](https://reemosamasalih.wixsite.com/velora)
