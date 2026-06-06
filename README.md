@@ -33,7 +33,7 @@
 
 
 ### products: 
-![products](screenshots/products(2).png)
+![products](screenshots/products.png)
 
 
 ### cart: 
